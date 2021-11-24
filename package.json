@@ -1,0 +1,26 @@
+{
+  "name": "lab4-using-ajax",
+  "version": "1.0.0",
+  "description": "mc quiz express app w ajax",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "git": "^0.1.5",
+    "mysql": "^2.18.1",
+    "node": "^17.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaimaaAliECE/lab4-alicesung2001.git"
+  },
+  "author": "Alice Sung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShaimaaAliECE/lab4-alicesung2001/issues"
+  },
+  "homepage": "https://github.com/ShaimaaAliECE/lab4-alicesung2001#readme"
+}
