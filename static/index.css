@@ -1,0 +1,53 @@
+body{
+    text-align: center;
+    justify-content: center;
+    align-self: center;
+    border: 3px none yellowgreen;
+    background-color: blanchedalmond;
+    display: wrap;
+
+
+}
+
+form {
+    border: 3px none yellowgreen;
+
+}
+
+button[id=start] {
+    width: 300px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font-size:xx-large;
+    margin: 30px;
+    text-decoration: none;
+    background-color: peachpuff;
+    border: 3px solid orange;
+    color: orangered;
+    padding: 10px 12px;
+
+}
+
+button[id=start]:hover {
+    width: 300px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font-size:xx-large;
+    margin: 30px;
+    text-decoration: none;
+    background-color: white;
+    border: 3px solid orange;
+    color: orangered;
+    padding: 10px 12px;
+    cursor: pointer;
+
+}
+
+h1 {
+    color: orange;
+    padding: 30px;
+    font-size: 44px;
+    font-family: 'Allerta';
+}
+
+div[id=stemDiv] {
+    border: 3px solid white;
+}
